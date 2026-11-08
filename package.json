@@ -1,0 +1,15 @@
+{
+  "name": "abubakar-ai-platform",
+  "version": "1.0.0",
+  "description": "ABUBAKAR AI PLATFORM - AI technology by ABUBAKAR AI TECHNOLOGY COMPANY",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0"
+  }
+}
